@@ -14,7 +14,7 @@
 ```
 INSTALLED_APPS = [
     ...
-    'django_logging',
+    'django_logging'
 ]
 ```
 
